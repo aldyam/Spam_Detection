@@ -2,7 +2,7 @@
 
 Ini adalah proyek untuk mata kuliah [Pemrosesan Teks dan Suara Bahasa Alami].
 
-Nama: Aldy Abdy Aziz Muzadilah
+Nama: Aldy Abdu Aziz Muzadilah
 NIM: 10222198
 
 # Deskripsi
